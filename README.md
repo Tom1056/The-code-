@@ -1,5 +1,5 @@
 # The-code-
-//Working flashlight (does not seem to work)
+#Working flashlight (does not seem to work)
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
