@@ -157,3 +157,5 @@ public class scaryEventTrigger : MonoBehaviour
         }
     }
 }
+The video: 
+https://github.com/Tom1056/The-code-/assets/150391192/c4946598-8e6f-4668-8672-7bd042e17533
