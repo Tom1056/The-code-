@@ -37,8 +37,7 @@ public class FlashLight : MonoBehaviour
         }
     }
 }
-
-//Picking up a flashlight (does not seem to work)
+#Picking up a flashlight (does not seem to work)
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -79,7 +78,7 @@ public class pickupFlashlight : MonoBehaviour
         }
     }
 }
-Walking and jumping (only program that would work)
+#Walking and jumping (only program that would work)
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -108,7 +107,6 @@ public class SC_FPSController : MonoBehaviour
     }
     void Update()
     {
-        // We are grounded, so recalculate move direction based on axes
         Vector3 forward = transform.TransformDirection(Vector3.forward);
         Vector3 right = transform.TransformDirection(Vector3.right);
         // Press Left Shift to run
@@ -139,7 +137,7 @@ public class SC_FPSController : MonoBehaviour
         }
     }
 }
-//Tigger to make a jumpscare for a bit (Does not work)
+#Tigger to make a jumpscare for a bit (Does not work)
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
