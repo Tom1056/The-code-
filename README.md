@@ -1,5 +1,5 @@
 # The-code-
-Working flashlight (does not seem to work)
+//Working flashlight (does not seem to work)
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -38,7 +38,7 @@ public class FlashLight : MonoBehaviour
     }
 }
 
-Picking up a flashlight (does not seem to work)
+//Picking up a flashlight (does not seem to work)
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -139,7 +139,7 @@ public class SC_FPSController : MonoBehaviour
         }
     }
 }
-Tigger to make a jumpscare for a bit (Does not work)
+//Tigger to make a jumpscare for a bit (Does not work)
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
