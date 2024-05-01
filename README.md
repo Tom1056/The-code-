@@ -1,7 +1,7 @@
 # The-code-
 #Working flashlight (does not seem to work)
-using System.Collections;
-using System.Collections.Generic;
+#using System.Collections;
+#using System.Collections.Generic;
 using UnityEngine;
 
 public class FlashLight : MonoBehaviour
