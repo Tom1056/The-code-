@@ -1,7 +1,7 @@
 # The-code-
-#Working flashlight (does not seem to work)
-#using System.Collections;
-#using System.Collections.Generic;
+Working flashlight (does not seem to work)
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class FlashLight : MonoBehaviour
@@ -37,6 +37,7 @@ public class FlashLight : MonoBehaviour
         }
     }
 }
+
 #Picking up a flashlight (does not seem to work)
 using System.Collections;
 using System.Collections.Generic;
@@ -78,12 +79,11 @@ public class pickupFlashlight : MonoBehaviour
         }
     }
 }
+
 #Walking and jumping (only program that would work)
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-[RequireComponent(typeof(CharacterController))]
 
 public class SC_FPSController : MonoBehaviour
 {
@@ -137,6 +137,7 @@ public class SC_FPSController : MonoBehaviour
         }
     }
 }
+
 #Tigger to make a jumpscare for a bit (Does not work)
 using System.Collections;
 using System.Collections.Generic;
